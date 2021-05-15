@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @semirkabir
+- 👀 I’m interested in Ethical hacking
+- 🌱 I’m currently learning penetration testing
+- 💞️ I’m looking to collaborate on an arp spoofing web application
+- 📫 How to reach me https://t.me/Iamsemir
